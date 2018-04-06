@@ -1,0 +1,9 @@
+*{
+    margin: 18px;
+    padding: 0px;
+}
+.wrapper{
+    height: 350px;
+    width:  350px;
+    background-color: aliceblue;
+}
